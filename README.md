@@ -1,2 +1,2 @@
-# jemsRipan
-Visit PortFolio Website : https://kartik-barman.github.io/jemsRipan/
+# Dipayan Dey
+Visit PortFolio Website :https://deydipayan2006.github.io/-dip_portfolio/
