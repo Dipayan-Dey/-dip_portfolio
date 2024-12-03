@@ -1,3 +1,19 @@
+ document.addEventListener("contextmenu", function (e) {
+        e.preventDefault();
+        alert("Right Click Not Allowed");
+       
+    });
+    document.onselectstart=(e)=>{
+           e.preventDefault();
+        //    alert("Content Copy Are Not Allowed")
+        };
+        document.addEventListener("keydown",(e)=>{
+            e.preventDefault();
+      if(e.key.toLowerCase()==="u"&&e.ctrlKey){
+        
+      }
+        })
+
 // Typing Script JS
 var typed = new Typed(".typing", {
     strings: ["YouTuber", "Graphic Designer", "Blogger", "Freelancer"],
